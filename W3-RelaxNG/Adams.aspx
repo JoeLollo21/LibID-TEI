@@ -8,8 +8,7 @@
            <publisher>Massachusetts</publisher>
        </sourceInfo>
         <revisions>
-            <change who="CC" when="2022-05-22">added markup</change>
-            <change who="EM" when="2022-05-10">added markup</change>
+            <change who="JL">added markup</change>
         </revisions>
     </metadata>
     <entries>
